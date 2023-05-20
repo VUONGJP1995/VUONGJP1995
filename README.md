@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @VUONGJP1995
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-VUONGJP1995/VUONGJP1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const CONFIG = {
+    titleWeb: "Kính thưa phu nhân tương lai",
+    introTitle: 'Quỳnh Gaby',
+    introDesc: `Nếu anh là nhà thơ anh sẽ viết tặng em những vần thơ cháy bỏng,
+    Nếu anh là nhạs sỹ anh sẽ viết tặng em những bản tình ca bất hủ,
+    Nếu anh là lập trình viên anh sẽ viết nên những đoạn mã ngập tràn hương vị tình yêu,
+    Và nếu anh có thể anh sẽ làm tất cả vì em.`,
+    btnIntro: '^^ahihi đồ ngốc^^',
+    title: 'Phải chăng chúng ta chính là định mệnh 🥰',
+    desc: 'Làm người yêu anh nhé Quỳnh Gaby ',
+    btnYes: 'dạ anh <33',
+    btnNo: 'Không nha :3',
+    question: 'em có điều gì muốn nói với anh không?',
+    btnReply: 'Gửi anh <3',
+    reply: 'Em cũng yêu anh <33333333',
+    mess: 'anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'tối nay chúng ta hẹn hò nhé.',
+    btnAccept: 'dạ anh <3',
+    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
